@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.color-orange{
+    color: orange;
+}
+section{
+    
+     display: flex; 
+}
+h1{
+    font-size: 50px;
+    text-transform: capitalize;
+    
+}
+.part-1{
+    width: 50%;
+    padding-left: 150px;
+    margin-top: 70px;
+    
+}
+button{
+    padding: 10px;
+    margin: 5px;
+    text-transform: capitalize;
+    background-image: linear-gradient(orange,tomato);
+    border: none;
+    border-radius: 10px;
+}
+button a{
+    text-decoration: none;
+    color: white;
+   
+}
+.image-part img{
+    width: 400px;
+    height: 500px;
+    margin-top: 30px;
+    padding-left: 200px;
+
+}
+.background-image{
+    background-image: url(7.png);
+    margin-top: 40px;
+}
+
+.rom-3{
+
+  text-align: center;
+    
+}
+
+.recipe{
+    display: flex;
+    text-align: center;
+    width: auto;
+    justify-content: center;
+
+}
+.recipe .recipe-1{
+    position: relative;
+    box-shadow: 10px 20px 40px gray;
+    margin: 40px 40px;
+    border-radius: 20px;
+
+}
+.recipe .recipe-1.food-image{
+    width: 10px;
+    height: 10px;
+}
+.recipe .recipe-1 .food-image img{
+    width: 90%;
+    height: 90px%;
+    padding-left:20px;
+    padding-right:20px;
+    margin-top:20px;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+footer h1{
+    color: wheat;
+    padding-top: 30px;
+}
+footer p{
+    padding-bottom: 35px;
+}
