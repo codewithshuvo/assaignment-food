@@ -3,7 +3,7 @@ body{
 }
 /* Extra part css start */
  ul{
-    height: 70px;
+    height: 10px;
     width: 100%;
     /* background: green; */
     padding-top: 50px;
@@ -68,7 +68,7 @@ button a{
     margin-top: 40px;
 }
 
-.rom-3{
+.row-3{
 
   text-align: center;
     
